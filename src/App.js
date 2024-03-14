@@ -5,6 +5,7 @@ import Header from "./components/Header"
 //? SCSS styleshet'i import ettik
 import "./scss/app.scss"
 
+
 import data from "./data"
 
 function App() {
